@@ -1,0 +1,14 @@
+C:\Users\Javi\Documents\Coding\cSharp\debug4\bin\Debug\net9.0\debug4.exe
+C:\Users\Javi\Documents\Coding\cSharp\debug4\bin\Debug\net9.0\debug4.deps.json
+C:\Users\Javi\Documents\Coding\cSharp\debug4\bin\Debug\net9.0\debug4.runtimeconfig.json
+C:\Users\Javi\Documents\Coding\cSharp\debug4\bin\Debug\net9.0\debug4.dll
+C:\Users\Javi\Documents\Coding\cSharp\debug4\bin\Debug\net9.0\debug4.pdb
+C:\Users\Javi\Documents\Coding\cSharp\debug4\obj\Debug\net9.0\debug4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javi\Documents\Coding\cSharp\debug4\obj\Debug\net9.0\debug4.AssemblyInfoInputs.cache
+C:\Users\Javi\Documents\Coding\cSharp\debug4\obj\Debug\net9.0\debug4.AssemblyInfo.cs
+C:\Users\Javi\Documents\Coding\cSharp\debug4\obj\Debug\net9.0\debug4.csproj.CoreCompileInputs.cache
+C:\Users\Javi\Documents\Coding\cSharp\debug4\obj\Debug\net9.0\debug4.dll
+C:\Users\Javi\Documents\Coding\cSharp\debug4\obj\Debug\net9.0\refint\debug4.dll
+C:\Users\Javi\Documents\Coding\cSharp\debug4\obj\Debug\net9.0\debug4.pdb
+C:\Users\Javi\Documents\Coding\cSharp\debug4\obj\Debug\net9.0\debug4.genruntimeconfig.cache
+C:\Users\Javi\Documents\Coding\cSharp\debug4\obj\Debug\net9.0\ref\debug4.dll
